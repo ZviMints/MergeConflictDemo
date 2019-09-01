@@ -1,5 +1,5 @@
 
-// Added in Master
+// Added Branch in Master
 class BST {
   
   class Node(var data: Int,var left: Node,var right:Node) {
