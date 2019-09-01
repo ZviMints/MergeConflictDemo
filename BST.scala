@@ -1,5 +1,5 @@
 
-// Added Branch in Master
+// and Master Branch Merge Conflict in Master
 class BST {
   
   class Node(var data: Int,var left: Node,var right:Node) {
