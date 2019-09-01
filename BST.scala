@@ -1,5 +1,6 @@
 
 // and Master Branch Merge Conflict in Master
+// Another comment
 class BST {
   
   class Node(var data: Int,var left: Node,var right:Node) {
